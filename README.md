@@ -67,4 +67,11 @@ The dashboard transforms raw financial records into a clear story about:
 ## 📈 Trend Analysis
 > ![Personal_Finance_Analysis_Project](Trend%20Chart.png)
 
+## Tooltip Preview for House Rent and Groceries Expenses
+> ![Personal_Finance_Analysis_Project](house_rent_analysis.png)
+
+---
+
+> ![Personal_Finance_Analysis_Project](food_grocries_analysis.png)
+
 
