@@ -6,7 +6,7 @@
 ## 🧭 Overview
 
 Many people earn money regularly, yet still feel confused about where their money goes.  
-This usually happens because financial decisions are driven by feelings instead of numbers.
+This typically occurs because emotions, rather than numbers, often drive financial decisions.
 
 This project is a **Personal Finance Dashboard** built to analyze real income and expense data over multiple years, to understand financial behavior, identify spending patterns, and improve financial decision-making using data — not assumptions.
 
@@ -60,13 +60,11 @@ The dashboard transforms raw financial records into a clear story about:
 
 ---
 
-## 🖼️ Screenshots
+## 🖼️ Dashboard
 
-> *(Add dashboard screenshots here)*
+> ![Personal_Finance_Analysis_Project](Dashboard_Screenshot.jpg)
 
-```text
-/Images
- ├── overview.png
- ├── trend_analysis.png
- ├── expense_breakdown.png
- └── net_worth.png
+## 📈 Trend Analysis
+> ![Personal_Finance_Analysis_Project](Trend%20Chart.png)
+
+
